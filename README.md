@@ -2,7 +2,7 @@
 
 I'm a French student at the ENS-PSL in Paris, where I study math and computer science.
 
-My current centers of interest include combinatorial and geometric group theory, formal methods and proof assistants, model theory and programming language semantics.
+My current centres of interest include combinatorial and geometric group theory, formal methods and proof assistants, model theory and programming language semantics.
 
 ## Languages I use
 
